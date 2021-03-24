@@ -1,2 +1,2 @@
-# sound-that-queen
- A fun mini game for sounding that queen
+# Sound That Queen
+ A fun mini-game for sounding that queen
